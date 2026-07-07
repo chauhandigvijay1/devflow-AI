@@ -65,7 +65,7 @@ For the most common issues, we maintain dedicated resources that provide quick, 
 
 When you encounter unexpected behavior, filing a comprehensive bug report is the best way to get it addressed. 
 
-Please report bugs via our [GitHub Issues](https://github.com/chauhandigvijay1/web-dev-journey/issues) page. 
+Please report bugs via our [GitHub Issues](https://github.com/chauhandigvijay1/devflow-AI/issues) page. 
 
 **Standard Bug Report Format:**
 ```markdown

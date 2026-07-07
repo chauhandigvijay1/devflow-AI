@@ -88,7 +88,7 @@ If you use DevFlow AI in your research or project, please consider citing it as 
   "name": "DevFlow AI",
   "author": "Digvijay Kumar Singh",
   "year": 2025,
-  "url": "https://github.com/chauhandigvijay1/devflow-ai"
+  "url": "https://github.com/chauhandigvijay1/devflow-AI"
 }
 ```
 
@@ -118,7 +118,7 @@ To ensure effective communication with the maintainers:
 <div align="center">
   <p>
     <a href="./README.md">Home</a> &nbsp;&bull;&nbsp;
-    <a href="https://github.com/chauhandigvijay1/devflow-ai">GitHub</a> &nbsp;&bull;&nbsp;
+    <a href="https://github.com/chauhandigvijay1/devflow-AI">GitHub</a> &nbsp;&bull;&nbsp;
     <a href="./CONTRIBUTING.md">Contribute</a>
   </p>
   <sub>© 2025 DevFlow AI. Built with Next.js, Groq, and MongoDB.</sub>

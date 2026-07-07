@@ -20,7 +20,7 @@
   <a href="./docs/README.md" target="_blank">
     <img src="https://img.shields.io/badge/DOCUMENTATION-→_Read_the_Docs-2563eb?style=for-the-badge&logo=gitbook&logoColor=white" alt="Documentation" />
   </a>
-  <a href="https://github.com/chauhandigvijay1/web-dev-journey" target="_blank">
+  <a href="https://github.com/chauhandigvijay1/devflow-AI" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE-→_GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://devflow-api-ubnd.onrender.com/api/health" target="_blank">
@@ -264,8 +264,8 @@ sequenceDiagram
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/chauhandigvijay1/web-dev-journey.git
-cd web-dev-journey/Real-world-projects/devflow-ai
+git clone https://github.com/chauhandigvijay1/devflow-AI.git
+cd devflow-AI
 ```
 
 ### 2. Backend Setup
@@ -464,7 +464,7 @@ DevFlow AI is open-source software licensed under the **[MIT License](./LICENSE)
 
 ## 📞 Support
 
-If you encounter a replicable runtime error, please review the [Troubleshooting Guide](./docs/troubleshooting.md) or open an issue on our [GitHub Tracker](https://github.com/chauhandigvijay1/web-dev-journey/issues).
+If you encounter a replicable runtime error, please review the [Troubleshooting Guide](./docs/troubleshooting.md) or open an issue on our [GitHub Tracker](https://github.com/chauhandigvijay1/devflow-AI/issues).
 
 <div align="center">
   <em>Thank you for exploring DevFlow AI. If you find this project valuable, please consider giving it a ⭐ on GitHub!</em>

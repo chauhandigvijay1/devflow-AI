@@ -49,8 +49,8 @@ Get your local environment running by cloning the repository and setting up both
 
 ```bash
 # Clone the repository
-git clone https://github.com/chauhandigvijay1/web-dev-journey.git
-cd web-dev-journey/Real-world-projects/devflow-ai
+git clone https://github.com/chauhandigvijay1/devflow-AI.git
+cd devflow-AI
 
 # Server setup
 cd server
